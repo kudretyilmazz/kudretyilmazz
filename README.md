@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kudret</h1>
 <h3 align="center">Frontend Web Developer from İstanbul, Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/kudretylmzzzx" target="blank"><img src="https://img.shields.io/twitter/follow/kudretylmzzzx?logo=twitter&style=for-the-badge" alt="kudretylmzzzx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kudretylmzzzx" target="blank"><img src="https://img.shields.io/twitter/follow/kudretylmzzzx?logo=twitter&style=for-the-badge" alt="kudretylmzzzx" /></a> <a href="https://www.linkedin.com/in/kudretyilmaz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kudretyilmaz" /></a> </p>
 
 - 🔭 I’m currently working on [Bootcamp Accelerator Program](https://patika.dev)
 

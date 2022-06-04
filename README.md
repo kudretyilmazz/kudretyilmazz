@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kudretylmzzzx" target="blank"><img src="https://img.shields.io/twitter/follow/kudretylmzzzx?logo=twitter&style=for-the-badge" alt="kudretylmzzzx" /></a> <a href="https://www.linkedin.com/in/kudretyilmaz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kudretyilmaz" /></a> </p>
 
-- 🔭 I’m currently working on [Intern Front-end Develeoper](https://www.id3.com.tr/)
+- 🔭 I’m currently working on [Front-end Develeoper](https://www.id3.com.tr/)
 
 - 🌱 I’m currently learning **React and React Native**
 

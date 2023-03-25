@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ID3](https://id3.com.tr)
 
-- 💬 Ask me about **CSS, JavaScript, TypeScript, React**
+- 💬 Ask me about **CSS, JavaScript, TypeScript, React, React Native**
 
 - 📫 How to reach me **kudretylmzzz@gmail.com**
 
